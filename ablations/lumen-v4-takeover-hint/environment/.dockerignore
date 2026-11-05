@@ -1,0 +1,3 @@
+# The main image build context must never see sidecar assets (spec, DB code).
+ops/
+**/__pycache__/

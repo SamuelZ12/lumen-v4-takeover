@@ -1,0 +1,18 @@
+{
+  "artifact": 1,
+  "changelog": 1,
+  "delivery_once": 1,
+  "eval_revision": 1,
+  "final": 1,
+  "health": 1,
+  "overall": 1,
+  "patch_approval": 1,
+  "ramp_approval": 1,
+  "ramp_holds": 1,
+  "ramp_stages": 1,
+  "retirement": 1,
+  "reward": 1,
+  "scope": 1,
+  "threshold": 1,
+  "warm": 1
+}
